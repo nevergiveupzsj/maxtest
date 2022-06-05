@@ -1,5 +1,0 @@
-numpy
-matplotlib
-sqlalchemy
-polygon
-pandas
