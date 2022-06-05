@@ -5,7 +5,7 @@ from setuptools import find_packages, setup
 # Package meta-data.
 NAME = 'maxtest'
 DESCRIPTION = 'maxtest'
-URL = 'https:pypi.org/project/maxtest'
+URL = 'https://github.com/nevergiveupzsj/maxtest'
 EMAIL = '1105522860@qq.com'
 AUTHOR = 'Sunbz'
 REQUIRES_PYTHON = '>=3.6.0'
